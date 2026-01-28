@@ -31,7 +31,7 @@ This project demonstrates the practical application of data science across sever
 ### Pillar 2: Product Strategy and User Experience
 3. **Feature Cannibalization Analysis:** Quantified the relationship between Reels consumption and traditional Feed engagement.
 
-![Reels vs Feed Correlation]()
+![Reels vs Feed Correlation]
 > **Strategic Insight:** The scatter plot demonstrates a strong positive correlation between Reels and Feed usage. This suggests that Reels acts as a "gateway" feature that increases overall platform stickiness rather than cannibalizing traditional Feed engagement.
 <img width="993" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/4d6a7885-9df3-44f9-927e-ad19870b9068" />
 
@@ -41,7 +41,7 @@ This project demonstrates the practical application of data science across sever
 5. **Burnout Early Warning System:** Identified the specific usage threshold (minutes per day) at which perceived stress scores increase significantly.
 6. **Sleep-Engagement Equilibrium:** Determined the optimal daily usage window that maximizes engagement without impacting user health.
 
-![Sleep vs Usage Heatmap]()
+![Sleep vs Usage Heatmap]
 > **Strategic Insight:** The density heatmap identifies a "Health Equilibrium" at 150–250 minutes of daily usage. Beyond the 300-minute mark, we observe a significant thinning of the 8-hour sleep cluster, providing a data-driven basis for time-limit notifications.
 <img width="993" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/50943a2c-5fdb-4a2e-88cc-597197d6be32" />
 
@@ -50,7 +50,7 @@ This project demonstrates the practical application of data science across sever
 8. **Notification Sensitivity:** Evaluated how notification response rates influence average session lengths.
 9. **Regional Behavioral Divergence:** Compared content preferences between urban and rural demographics for localized curation.
 
-![Content Preference by Region]()
+![Content Preference by Region]
 > **Strategic Insight:** Comparative analysis shows high uniformity in content preferences across urban and rural segments. This indicates that for this dataset, behavioral targeting (interests) is a more powerful driver of engagement than geographic location.
 <img width="993" height="525" alt="newplot" src="https://github.com/user-attachments/assets/f3238a70-1ad5-4e07-928b-872181962291" />
 
