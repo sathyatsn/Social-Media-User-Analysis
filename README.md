@@ -82,5 +82,5 @@ This project demonstrates the practical application of data science across sever
 
 ---
 
-## Professional Statement
+## Summary
 This project serves as a demonstration of technical proficiency in handling large-scale datasets and the ability to translate complex statistical outputs into actionable business strategies. It balances the need for revenue-focused growth with a rigorous commitment to user-centric product management.
