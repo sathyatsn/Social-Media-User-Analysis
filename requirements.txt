@@ -1,0 +1,5 @@
+polars
+pandas
+scikit-learn
+plotly
+kagglehub
