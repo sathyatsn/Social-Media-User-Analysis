@@ -1,0 +1,12 @@
+# Ignore the large dataset
+data/
+*.csv
+*.zip
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python caches
+__pycache__/
+.ipynb_checkpoints/
+.venv/
